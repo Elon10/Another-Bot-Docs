@@ -1,4 +1,4 @@
-# 🤖 About Me
+# Another Bot - The Discord Bot
 
 ![Another Bot](.gitbook/assets/another-bot.png)
 

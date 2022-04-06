@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [Another Bot - The Discord Bot](README.md)
 * [📘 Commands](commands/README.md)
   * [⚙ Admin](commands/admin.md)
   * [🔞 Anime](commands/anime.md)
