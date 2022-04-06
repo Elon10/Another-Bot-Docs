@@ -1,12 +1,12 @@
-# Another Bot - The Discord Bot
+# About Me
 
 ![Another Bot](.gitbook/assets/another-bot.png)
 
-Another Bot is a multi-purpose bot featuring rection roles, automod, logging, and much more.
+Another Bot is a multi-purpose bot featuring rection roles, auto-moderation, logging, and much more.
 
 Invite Me: [Invite Here](https://discord.com/oauth2/authorize?client\_id=752922609733337190\&permissions=397602323830\&scope=bot%20applications.commands)
 
-Support Server: [Join Here](https://discord.com/invite/tGKfUsGM)
+Support Server: [Join Here](https://discord.gg/UgZrwhvMxP)
 
 ### Features
 
