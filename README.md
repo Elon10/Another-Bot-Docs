@@ -1,6 +1,6 @@
 # 🤖 About Me
 
-![Another Bot](docs/.gitbook/assets/another-bot.png)
+![Another Bot](.gitbook/assets/another-bot.png)
 
 Another Bot is a multi-purpose bot featuring rection roles, automod, logging, and much more.
 Invite Me: [Invite Here](https://discord.com/oauth2/authorize?client\_id=752922609733337190\&permissions=397602323830\&scope=bot%20applications.commands)
