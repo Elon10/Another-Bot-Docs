@@ -1,6 +1,7 @@
-# Table of Content
+# Table of contents
 
-* [🤖 About Me](../README.md)
+* [README](README.md)
+* [🤖 About Me](about-me.md)
 * [📘 Commands](commands/README.md)
   * [⚙ Admin](commands/admin.md)
   * [🔞 Anime](commands/anime.md)
