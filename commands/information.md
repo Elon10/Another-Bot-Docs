@@ -2,7 +2,7 @@
 Commands: 13 commands
 ---
 
-# Information
+# 🪧 Information
 
 | Command                 | Slash             | Description                                                |
 | ----------------------- | ----------------- | ---------------------------------------------------------- |

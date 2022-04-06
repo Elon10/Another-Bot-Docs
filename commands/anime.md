@@ -2,12 +2,12 @@
 Commands: 31 commands
 ---
 
-# Anime
+# 🔞 Anime
 
 ### Reactions
 
 * **Description**: anime reactions
-* **Command Usage**: `!anime <reaction>`&#x20;
+* **Command Usage**: `!anime <reaction>`
 * **Slash Usage**: `/anime`
 * **Cooldown**: 5 seconds
 

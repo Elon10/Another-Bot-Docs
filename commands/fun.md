@@ -2,7 +2,7 @@
 Commands: 6 commands
 ---
 
-# Fun
+# 😂 Fun
 
 | Command                | Slash          | Description                 |
 | ---------------------- | -------------- | --------------------------- |

@@ -1,4 +1,4 @@
-# 🤖 About Me
+# README
 
 ![Another Bot](.gitbook/assets/another-bot.png)
 
