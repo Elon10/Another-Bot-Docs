@@ -2,7 +2,7 @@
 Commands: 10 commands
 ---
 
-# 🛠 Utility
+# Utility
 
 | Command                        | Slash          | Description                                   |
 | ------------------------------ | -------------- | --------------------------------------------- |

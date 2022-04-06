@@ -1,3 +1,1 @@
-# ❓ FAQ
-
 Will be made soon...

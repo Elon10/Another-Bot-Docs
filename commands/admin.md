@@ -1,4 +1,4 @@
-# ⚙ Admin
+# Administration Commands
 
 {% hint style="danger" %}
 These commands can only be used by members who have **MANAGE\_SERVER** permission
@@ -44,7 +44,7 @@ Each time a member tries to break the automated rule, he/she **receives a strike
 
 ### Counter Channels
 
-* \*\*Description: \*\*setup counter channel in the guild
+* **Description: **setup counter channel in the guild
 * **Usage**: `!counter <counter_type> <name>`
 * **Available counters** **types**
   * USERS: counts the total server member count (members + bots)
@@ -149,15 +149,15 @@ Moderation logging enable logging of all **moderation actions** and **automod ev
 {% endtabs %}
 
 {% hint style="success" %}
-**Allowed Content Replacements**
+#### Allowed Content Replacements
 
-* \n : New Line
-* {server} : Server Name
-* {count} : Server member count
-* {member:name} : Member Name
-* {member:tag} : Member Tag
-* {inviter:name} : Inviter Name
-* {inviter:tag} : Inviter Tag
+* \n : New Line&#x20;
+* {server} : Server Name&#x20;
+* {count} : Server member count&#x20;
+* {member:name} : Member Name&#x20;
+* {member:tag} : Member Tag&#x20;
+* {inviter:name} : Inviter Name&#x20;
+* {inviter:tag} : Inviter Tag&#x20;
 * {invites} : Inviter Invites
 {% endhint %}
 
