@@ -1,14 +1,13 @@
-# About Me
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Another Bot" src="https://i.imgur.com/XZtrnIe.png">
 
-![Another Bot](.gitbook/assets/another-bot.png)
+# Another Bot
 
-Another Bot is a multi-purpose bot featuring rection roles, auto-moderation, logging, and much more.
+[![](https://img.shields.io/discord/949484604442673163.svg?logo=discord&colorB=7289DA&label=%20Support)](https://discord.gg/UgZrwhvMxP)
+[![](https://img.shields.io/badge/discord.js-v13.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 
-Invite Me: [Invite Here](https://discord.com/oauth2/authorize?client\_id=752922609733337190\&permissions=397602323830\&scope=bot%20applications.commands)
+> Another Bot is a multi-purpose bot featuring rection roles, automod, logging, and much more.
 
-Support Server: [Join Here](https://discord.gg/UgZrwhvMxP)
-
-### Features
+## Features
 
 Another Bot is a feature-rich Discord Bot with new features constantly being updated. Current features include
 
