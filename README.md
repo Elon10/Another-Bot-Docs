@@ -2,7 +2,7 @@
 
 # Another Bot
 
-[![](https://img.shields.io/discord/949484604442673163.svg?logo=discord&colorB=7289DA&label=%20Support)](https://discord.gg/UgZrwhvMxP)
+[![](https://img.shields.io/discord/949484604442673163.svg?logo=discord&colorB=7289DA&label=%20Support)](discord.gg/anotherbot)
 [![](https://img.shields.io/badge/discord.js-v13.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 
 > Another Bot is a multi-purpose bot featuring rection roles, automod, logging, and much more.
